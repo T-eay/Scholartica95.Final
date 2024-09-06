@@ -681,3 +681,59 @@ section{
         width: 9rem;
     }
 }
+
+
+
+.form-new {
+    margin-right: 22%;
+    margin-left: 20%;
+  }
+  .register-heading {
+    margin-left: 21%;
+    margin-bottom: 10%;
+    color: #e9ecef;
+  }
+  .register-heading h1 {
+    margin-left: 21%;
+    margin-bottom: 10%;
+    color: #e9ecef;
+  }
+  .register {
+    background: -webkit-linear-gradient(left, pink, white);
+    margin-top: 3%;
+    padding: 3%;
+    border-radius: 2.5rem;
+    display: none;
+  }
+  .btnSubmit {
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    color: #fff;
+    background-color: var(--salmon-pink);
+    border: none;
+    cursor: pointer;
+    margin-right: 6%;
+    color: rgb(246, 246, 252);
+    margin-top: 4%;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
